@@ -34,6 +34,7 @@ BASE_TESTS="
   physics-4wheel/src
   physics-mecanum/src
   physics-spi/src
+  potentiometer-pid
   shuffleboard
   state-space-flywheel
   tank-drive
